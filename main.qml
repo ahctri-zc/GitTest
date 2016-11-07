@@ -12,7 +12,7 @@ Window {
     }
 
     Text {
-        text: qsTr("Git Test 1")
+        text: qsTr("Git Test 2")
         anchors.centerIn: parent
     }
 }
